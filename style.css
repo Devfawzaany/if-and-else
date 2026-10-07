@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ #padlock{
+    font-size: 300px;
+    
+}
+#unlocked{
+    padding: 10px;
+    width: 100px;
+    background-color: blueviolet;
+    color: bisque;
+    border-radius: 5px;
+} 
+
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
